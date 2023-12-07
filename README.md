@@ -31,7 +31,7 @@ We collected the slides we received so far. You can find them on the website or 
 - [The wizardry of project management](https://firebasestorage.googleapis.com/v0/b/devfestpescara-2023.appspot.com/o/slides%2FThe_wizardry_of_project_management_Giovanna_Galleno_Devfest_Pescara.pdf?alt=media&token=53aa962e-ab85-450d-b52e-4478527c03ce) - By Giovanna Galleno Malaga
 - [Untold CQRS](https://docs.google.com/presentation/d/1Pilb6UcY9z6fRZG1KU8ZA-OCNdhe5zmI_v7Ys1g2qeI/edit?usp=sharing) - by Enrico Giacomazzi, [demo](https://github.com/enricogiacomazzi/CQRS-devfest-pescara-23) here
 - [Venice is a Triwizard Maze! Various Uses of Ant Colony Optimization](https://firebasestorage.googleapis.com/v0/b/devfestpescara-2023.appspot.com/o/slides%2FVenice%20is%20a%20triwizard%20maze.pdf?alt=media&token=0beed0aa-c6ea-4d59-8c08-f36d16ef15db) - by Federica Trevisan
--[YOLO & Flutter](https://firebasestorage.googleapis.com/v0/b/devfestpescara-2023.appspot.com/o/slides%2FYolo%20%26%20Flutter.pdf?alt=media&token=81a7c46c-023b-48b4-a47f-39c7de672b3e) - by Simone Bonfrate
+- [YOLO & Flutter](https://firebasestorage.googleapis.com/v0/b/devfestpescara-2023.appspot.com/o/slides%2FYolo%20%26%20Flutter.pdf?alt=media&token=81a7c46c-023b-48b4-a47f-39c7de672b3e) - by Simone Bonfrate
 
 ## Photo Album
 You can find the Devfest's photo album [here](https://photos.app.goo.gl/perhH4PpWLqqAQLK8)
