@@ -10,7 +10,12 @@
   social.linkedin: https://www.linkedin.com/in/matteo-maria-terzuolo/
   social.twitter: https://twitter.com/SaltySpag
   social.blog: 
-  slides: 
+  slides: [
+    {
+      title: 'Slides',
+      url: 'https://docs.google.com/presentation/d/1GkV82LI7bWSR_oSID_OsFdiWrPm5zjeAF1LGREWtVlA/edit#slide=id.g291e22da81b_0_251'
+    }
+  ]
 ---
 Flutter Developer that loves to experiment with new technologies and everything that catches my interest
   
